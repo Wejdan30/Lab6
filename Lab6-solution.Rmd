@@ -52,7 +52,7 @@ head(dennys)
     
 ```{r}
 dim(laquinta)
-#head(laquinta)
+head(laquinta)
 ```
 \textcolor{red}{This dataset has 909 rows and 6 columns. Each row represents location information about laquinta's hotel.}
 
