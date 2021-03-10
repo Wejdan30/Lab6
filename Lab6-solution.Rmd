@@ -1,6 +1,6 @@
 ---
 title: "Lab 6 - La Quinta is Spanish for next to Denny's, Pt. 1"
-subtitle: "wejdan Abdulrhman Al-Harthy"
+subtitle: "Wejdan Abdulrhman Al-Harthy"
 author: Musab Isah
 output: pdf_document
 ---
